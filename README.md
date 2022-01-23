@@ -24,7 +24,7 @@ Please test this firmware and let us know if it misbehaves in any way. Volunteer
 
 ## Credits
 
-This is a Marlin based firmware and is maintained by Miguel Risco-Castillo [[@mriscoc](https://github.com/mriscoc)]  
+This is a Marlin based firmware and is maintained by [@mriscoc](https://github.com/mriscoc)  
 
 This work would not be possible without the supporters, helpers and betatesters at the [Telegram group].
 
