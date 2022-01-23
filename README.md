@@ -18,7 +18,7 @@ Please test this firmware and let us know if it misbehaves in any way. Volunteer
  - [How to use with Octoprint](https://github.com/mriscoc/Ender3v2/wiki/Octoprint)
   
 ## Community links
-* [Telegram]
+* Telegram
 * [Reddit](https://www.reddit.com/r/Ender3v2Firmware) 
 * [Facebook](https://www.facebook.com/groups/ender3v2firmware)
 
